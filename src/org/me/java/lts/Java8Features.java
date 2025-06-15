@@ -1,4 +1,4 @@
-package org.me.java.test;
+package org.me.java.lts;
 
 import java.util.Arrays;
 import java.util.Iterator;

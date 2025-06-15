@@ -1,4 +1,4 @@
-package org.me.java.test;
+package org.me.java.lts;
 
 // Sealed class must be top-level or static nested if inside another class
 sealed class Shape permits Circle {

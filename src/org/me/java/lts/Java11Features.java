@@ -1,4 +1,4 @@
-package org.me.java.test;
+package org.me.java.lts;
 
 import java.net.URI;
 import java.net.http.HttpClient;
